@@ -4,5 +4,5 @@ Back-end desenvolvido para criação de um sistema de divulgação de serviços 
 
 # START
 
- >> npm i
- >> npm run dev
+ -> npm i
+ -> npm run dev
