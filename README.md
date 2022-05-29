@@ -1,8 +1,10 @@
 # BACK_END_JOB_DELIVERY
-Back-end desenvolvido para criação de um sistema de divulgação de serviços em geral, como serviços domesticos entre outross.
+
+- Back-end desenvolvido para criação de um sistema de divulgação de serviços em geral, como serviços domesticos entre outross.
 
 
 # START
 
- -> npm i
- -> npm run dev
+-> npm i
+ 
+-> npm run dev
